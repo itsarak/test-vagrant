@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/tinowork/LABs/centos7.6_Media","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
